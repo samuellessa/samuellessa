@@ -38,3 +38,23 @@ I am a passionate and results-driven Full-stack developer.
 
 * 💬 Ask me about: Full-stack development, Node.js, Python, Angular, and cloud technologies.
 * 📫 How to reach me: Use the contact information above.
+
+
+
+### Stack
+
+| Language   | Years of Experience |
+| ---------- | ------------------- |
+| Node.js    | 5+                  |
+| Expres.js  | 3+                  |
+| NestJS     | 2+                  |
+| Python     | 5+                  |
+| FastAPI    | 2+                  |
+| Flask      | 2+                  |
+| Angular    | 7+                  |
+| TypeScript | 7+                  |
+| JavaScript | 7+                  |
+| HTML       | 7+                  |
+| CSS        | 7+                  |
+| SQL        | 6+                  |
+| CLOUD      | 6+                  |
